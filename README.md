@@ -48,3 +48,13 @@ OpenSSL::HMAC.hexdigest(
   'la2u3hUGHpAzz2QuK2kHluPa-Lhbp8-PGX2cdiYu', # secret key (keep safe!)
   current_user.email # user's email address
 )
+
+
+---
+title: This will be used as the title-tag of the page head
+---
+
+hello
+=====
+
+**You are here!**
